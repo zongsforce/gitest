@@ -1,3 +1,0 @@
-[submodule "gitsubmodule"]
-	path = gitsubmodule
-	url = git@github.com:zongsforce/gitsubmodule.git
